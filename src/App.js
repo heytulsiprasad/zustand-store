@@ -18,7 +18,7 @@ const App = () => {
         onClick={switchDark}>
        Toggle Dark Mode
       </button>
-      <h1>People</h1>
+      <h1>Employees</h1>
       <Input />
       <People />
     </div>
